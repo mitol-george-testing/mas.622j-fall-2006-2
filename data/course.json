@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b5a259b2-09a9-15dc-9304-8caeaff4e6fd",
+      "b2acb90b-48a3-6a34-158c-7fcb12dab8d6",
+      "64eb7a61-07e9-65d8-ff12-0f088ae972ca",
+      "d9cb937e-68d2-53a7-f812-696a7702697a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Pattern Recognition and Analysis",
+  "course_description": "This class deals with the fundamentals of characterizing and recognizing patterns and features of interest in numerical data. We discuss the basic tools and theory for signal understanding problems with applications to user modeling, affect recognition, speech recognition and understanding, computer vision, physiological analysis, and more. We also cover decision theory, statistical classification, maximum likelihood and Bayesian estimation, nonparametric methods, unsupervised learning and clustering. Additional topics on machine and human learning from active research are also talked about in the class.\n",
+  "department_numbers": [
+    "MAS",
+    "1"
+  ],
+  "extra_course_numbers": "1.126J",
+  "primary_course_number": "MAS.622J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Projects",
+    "Programming Assignments"
+  ],
+  "title": "Course Metadata"
+}
